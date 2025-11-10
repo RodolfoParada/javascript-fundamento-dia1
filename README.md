@@ -1,0 +1,1 @@
+#### 1. Se realiza el ejercicio practico de tipos de datos y variables.

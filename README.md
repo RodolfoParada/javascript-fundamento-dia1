@@ -1,1 +1,1 @@
-#### 1. Se realiza el ejercicio practico de tipos de datos y variables.
+#### 1. Se realiza el ejercicio practico de tipos de datos y variables en el archivo practice.js
